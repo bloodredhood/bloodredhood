@@ -13,7 +13,7 @@ Linkedin: https://www.linkedin.com/in/yauheni-markusheuski-0a73761a3/
 
 ## Languages and Tools:
 
-JavaScript TypeScript React Next Apollo GraphQL HTML5 CSS3 Redux MobX Vue Vuex 
+JavaScript TypeScript React Next Apollo GraphQL HTML5 CSS3 Redux ReduxToolkit RTKQuery MobX Vue Vuex 
 
 ## GitHub projects:
 
