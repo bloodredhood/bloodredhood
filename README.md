@@ -17,6 +17,7 @@ JavaScript TypeScript React Next Apollo GraphQL HTML5 CSS3 Redux MobX Vue Vuex
 
 ## GitHub projects:
 
+ice-and-fire
 social-network
 
 <!--
