@@ -20,6 +20,9 @@ JavaScript TypeScript React Next Apollo GraphQL HTML5 CSS3 Redux ReduxToolkit RT
 ice-and-fire  
 social-network
 
+and something deployed from rss course to Netlify:
+https://dev-week5.netlify.app/
+
 <!--
 **bloodredhood/bloodredhood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
